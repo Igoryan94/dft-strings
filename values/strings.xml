@@ -85,4 +85,5 @@
 	<string name="frozen_launcher_open_app_freezer">Open app freezer</string>
 	<string name="context_help_title_app_freezer">App freezer</string>
 	<string name="context_help_desc_app_freezer">This menu allows you to freeze/unfreeze user/system apps on demand, with an ability to search</string>
+	<string name="workarounds_disable_google_play_services">Disable Google Play services</string>
 </resources>
