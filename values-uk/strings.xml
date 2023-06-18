@@ -8,12 +8,12 @@
 	<string name="dialog_operation_purge_art_cache_confirm_text">Бажаєте очистити весь кеш коду ART?</string>
 	<string name="dialog_button_confirm">Підтвердити</string>
 	<string name="dialog_button_cancel">Скасувати</string>
-	<string name="page_resources_control">Коньроль ресурсів</string>
+	<string name="page_resources_control">Контроль ресурсів</string>
 	<string name="art_category_main">Головна</string>
 	<string name="page_installer_title">Інсталятор</string>
 	<string name="dialog_loading_text" tools:ignore="TypographyEllipsis">Завантаження...</string>
 	<string name="dialog_applied_text">Підтверджено</string>
-	<string name="dialog_empty_text">Not applied as the value is empty!</string>
+	<string name="dialog_empty_text">Не застосовується, оскільки значення порожнє!</string>
 	<string name="installer_action_install_tweaks_text">Установити</string>
 	<string name="menu_art_button_purge_code_cache">Очистити кеш коду ART</string>
 	<string name="main_menu_category_power_resources">Системні ресурси</string>
