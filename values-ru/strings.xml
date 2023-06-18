@@ -25,7 +25,7 @@
 	<string name="context_help_schedtune_read_error_text" tools:ignore="TypographyEllipsis">Ошибка получения значений SchedTune...</string>
 	<string name="main_menu_category_app">Приложение</string>
 	<string name="page_settings">Настройки</string>
-	<string name="app_settings_category_main">главная</string>
+	<string name="app_settings_category_main">Основные</string>
 	<string name="app_settings_category_colors">Цвет темы</string>
 	<string name="app_settings_colors_background_enabled">Цвет фона</string>
 	<string name="app_settings_colors_dynamic_theme">Вкл. динамическую покраску на основе обоев</string>
@@ -36,7 +36,7 @@
 	<string name="page_animations_speed">Скорость системных анимаций</string>
 	<string name="dialog_set_system_animation_speed_title">Установить скорость анимаций</string>
 	<string name="dialog_set_system_animation_speed_value_applied_fmt">Скорость системных анимаций выставлена на: %s</string>
-	<string name="dialog_set_system_animation_speed_edit_preset">Редактировать пресет</string>
+	<string name="dialog_set_system_animation_speed_edit_preset">Редактировать предустановку</string>
 	<string name="dialog_set_system_animation_speed_value_reset">Скорость анимаций сброшена до значений по умолчанию</string>
 	<string name="schedtune_category_class_boosts_top_app">Текущее приложение</string>
 	<string name="schedtune_category_class_boosts_fg">Сервисы приложений</string>
@@ -46,7 +46,7 @@
 	<string name="context_help_desc_main_menu_art">Движок приложений Android, называемый Android Runtime, подготавливает кэш кода приложений до их первого запуска. Это меню позволяет изменять некоторые параметры движка, сбрасывать весь кэш кода. Это может быть полезно, если не хватает памяти или когда прошивка работает с ошибками.</string>
 	<string name="context_help_title_main_menu_system_animations">Установить скорость системных анимаций</string>
 	<string name="context_help_desc_main_menu_system_animations">Данное меню позволяет изменять скорость системных анимаций. В нём присутствует пять настраиваемых предустановок (зажмите для настройки их значений).</string>
-	<string name="schedtune_toggle_scale_values_by_topapp">>Масштабировать остальные значения от значения текущего приложения.</string>
+	<string name="schedtune_toggle_scale_values_by_topapp">Масштабировать остальные значения от значения текущего приложения.</string>
 	<string name="context_help_schedtune_title_scale_vals_with_topapp">Масштабировать остальные значения, когда меняется значение текущих приложений.</string>
 	<string name="context_help_schedtune_desc_scale_vals_with_topapp">После включения данного пункта, когда значение текущего приложения изменено как обычное, все остальные значения будут отмасштабированы для большей плавности.</string>
 	<string name="context_help_title_main_no_help">Нет информации на данный момент</string>
