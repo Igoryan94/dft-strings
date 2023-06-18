@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-	<string name="main_menu_category_power">Напруга</string>
+	<string name="main_menu_category_power">Живлення</string>
 	<string name="dialog_operation_completed">Операцію виконано</string>
 	<string name="dialog_operation_purge_art_cache_in_progress" tools:ignore="TypographyEllipsis">Очищення всього кешу коду...</string>
 	<string name="dialog_operation_purge_art_cache_cancelled">Очищення ART-кешу скасовано, нічого не виконано</string>
