@@ -10,7 +10,7 @@
 	<string name="dialog_button_confirm">Подтвердить</string>
 	<string name="dialog_button_cancel">Отмена</string>
 	<string name="page_resources_control">Контроль ресурсов</string>
-	<string name="art_category_main">Главная</string>
+	<string name="art_category_main">Основные</string>
 	<string name="page_installer_title">Установщик</string>
 	<string name="dialog_loading_text" tools:ignore="TypographyEllipsis">Загрузка...</string>
 	<string name="dialog_applied_text">Применено</string>
