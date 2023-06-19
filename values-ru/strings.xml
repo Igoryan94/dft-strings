@@ -3,7 +3,7 @@
 	<string name="page_art" translatable="false">Android Runtime</string>
 	<string name="page_schedtune" translatable="false">SchedTune</string>
 	<string name="dialog_operation_completed">Операция выполнена!</string>
-	<string name="dialog_operation_purge_art_cache_in_progress" tools:ignore="TypographyEllipsis">Очистка всего код-кеша...</string>
+	<string name="dialog_operation_purge_art_cache_in_progress" tools:ignore="TypographyEllipsis">Очистка всего кеша код...</string>
 	<string name="dialog_operation_purge_art_cache_cancelled">Очистка ART-кеша отменена, операция не выполнена</string>
 	<string name="dialog_operation_purge_art_cache_title">Очистка ART-кеша</string>
 	<string name="dialog_operation_purge_art_cache_confirm_text">Вы действительно хотите очистить весь ART-кеш-код?</string>
@@ -16,7 +16,7 @@
 	<string name="dialog_applied_text">Применено</string>
 	<string name="dialog_empty_text">Значение пустое, не применено!</string>
 	<string name="installer_action_install_tweaks_text">Установить</string>
-	<string name="menu_art_button_purge_code_cache">Очистка ART-кеш-кода</string>
+	<string name="menu_art_button_purge_code_cache">Очистка кеша ART-кода</string>
 	<string name="main_menu_category_power_resources">Системные ресурсы</string>
 	<string name="context_help_title_main_menu_stune">Об CFS SchedTune</string>
 	<string name="context_help_desc_main_menu_stune">SchedTune (или Stune) является движком подъёма значения нагрузки процессов в планировщике процессов Android (CFS). Настройка некоторых значений (в процентах) для группы процессов в результате дает более быстрое выполнение данных процессов. Это может вызвать нагрев и повышение частот процессора, но также ведет к увеличению производительности.</string>
