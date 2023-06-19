@@ -78,7 +78,7 @@
 	<string name="page_frozen_apps_launcher">Запуск замороженных приложений</string>
 	<string name="frozen_launcher_unknown_app_title">Неизвестное приложение</string>
 	<string name="workarounds_category_network">Сеть</string>
-	<string name="workarounds_improve_mobile_network_latency">Уменьшение задержек мобильной сети</string>
+	<string name="workarounds_improve_mobile_network_latency">Улучшение задержки мобильной сети</string>
 	<string name="frozen_launcher_open_app_freezer">Открыть заморозку приложений</string>
 	<string name="context_help_title_app_freezer">Заморозка приложений</string>
 	<string name="context_help_desc_app_freezer">Здесь вы можете заморозить/разморозить пользовательские/системные приложения по запросу, с возможностью поиска</string>
