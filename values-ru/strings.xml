@@ -3,7 +3,7 @@
 	<string name="page_art" translatable="false">Android Runtime</string>
 	<string name="page_schedtune" translatable="false">SchedTune</string>
 	<string name="dialog_operation_completed">Операция выполнена!</string>
-	<string name="dialog_operation_purge_art_cache_in_progress" tools:ignore="TypographyEllipsis">Очистка всего кеша код...</string>
+	<string name="dialog_operation_purge_art_cache_in_progress" tools:ignore="TypographyEllipsis">Очистка всего кеша кода...</string>
 	<string name="dialog_operation_purge_art_cache_cancelled">Очистка ART-кеша отменена, операция не выполнена</string>
 	<string name="dialog_operation_purge_art_cache_title">Очистка ART-кеша</string>
 	<string name="dialog_operation_purge_art_cache_confirm_text">Вы действительно хотите очистить весь ART-кеш-код?</string>
@@ -72,7 +72,7 @@
 	<string name="context_help_desc_main_menu_workarounds">Содержит возможные исправления или решения проблем с системой или ошибок</string>
 	<string name="app_settings_main_app_one_handed_mode">Режим в одной руке</string>
 	<string name="app_disabler_category_disabled">Замороженные</string>
-	<string name="schedtune_toggle_apply_after_boot">Применять после загрузки</string>
+	<string name="schedtune_toggle_apply_after_boot">Применять после загрузки телефона</string>
 	<string name="app_disabler_category_active">Активные</string>
 	<string name="app_disabler_filter_hint">Фильтр...</string>
 	<string name="page_frozen_apps_launcher">Запуск замороженных приложений</string>
@@ -88,5 +88,5 @@
 	<string name="frozen_launcher_edit_app_list_select_unselect_all">Выбрать/убрать всё</string>
 	<string name="frozen_launcher_dialog_text_unfreeze_app">Вы уверены,что хотите разморозить %s?</string>
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Разморозить приложение</string>
-	<string name="frozen_launcher_lock_all_unfrozen_on_demand">Заблокировать все замороженные приложение (Применится в течение 15 секунд)</string>
+	<string name="frozen_launcher_lock_all_unfrozen_on_demand">Заблокировать все замороженные приложения (Применится в течение 15 секунд)</string>
 </resources>
