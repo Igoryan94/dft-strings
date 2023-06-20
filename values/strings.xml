@@ -73,9 +73,8 @@
 	<string name="context_help_title_main_menu_workarounds">Workarounds for some OS problems</string>
 	<string name="context_help_desc_main_menu_workarounds">Contains maybe-useful fixes or workarounds for system problems or bugs</string>
 	<string name="app_settings_main_app_one_handed_mode">One handed mode</string>
-	<string name="app_disabler_category_disabled">Frozen</string>
 	<string name="schedtune_toggle_apply_after_boot">Apply after boot</string>
-	<string name="app_disabler_category_active">Active</string>
+	<string name="app_disabler_category_user">Active</string>
 	<string name="app_disabler_filter_hint">Filter...</string>
 	<string name="page_frozen_apps_launcher">Frozen apps launcher</string>
 	<string name="frozen_launcher_unknown_app_title">Unknown app</string>
@@ -91,4 +90,5 @@
 	<string name="frozen_launcher_dialog_text_unfreeze_app">Are you sure you want to unfreeze %s app?</string>
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Unfreeze app</string>
 	<string name="frozen_launcher_lock_all_unfrozen_on_demand">Lock all unfrozen now (will work in 15 seconds)</string>
+	<string name="app_disabler_open_frozen_launcher">Open frozen launcher</string>
 </resources>

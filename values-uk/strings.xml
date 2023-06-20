@@ -69,9 +69,8 @@
 	<string name="context_help_title_main_menu_workarounds">Обхідні шляхи вирішення деяких проблем ОС.</string>
 	<string name="context_help_desc_main_menu_workarounds">Містить корисні виправлення або обхідні шляхи для системних проблем або помилок.</string>
 	<string name="app_settings_main_app_one_handed_mode">Режим однією рукою</string>
-	<string name="app_disabler_category_disabled">Заморожені</string>
 	<string name="schedtune_toggle_apply_after_boot">Застосувати після завантаження.</string>
-	<string name="app_disabler_category_active">Активні</string>
+	<string name="app_disabler_category_user">Активні</string>
 	<string name="app_disabler_filter_hint">Фільтр...</string>
 	<string name="page_frozen_apps_launcher">Панель запуску заморожених програм.</string>
 	<string name="frozen_launcher_unknown_app_title">Невідомий додаток</string>
@@ -87,4 +86,5 @@
 	<string name="frozen_launcher_dialog_text_unfreeze_app">Ви впевнені, що бажаєте розморозити програму %s?</string>
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Розморозити програму</string>
 	<string name="frozen_launcher_lock_all_unfrozen_on_demand">Заблокувати всі розморожені зараз (спрацює через 15 секунд)</string>
+	<string name="app_disabler_open_frozen_launcher">Open frozen launcher</string>
 </resources>
