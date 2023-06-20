@@ -1,7 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 	<string name="main_menu_category_power">Питание</string>
-	<string name="page_art" translatable="false">Android Runtime</string>
-	<string name="page_schedtune" translatable="false">SchedTune</string>
 	<string name="dialog_operation_completed">Операция выполнена!</string>
 	<string name="dialog_operation_purge_art_cache_in_progress" tools:ignore="TypographyEllipsis">Очистка всего кеша кода...</string>
 	<string name="dialog_operation_purge_art_cache_cancelled">Очистка ART-кеша отменена, операция не выполнена</string>
@@ -58,7 +56,6 @@
 	<string name="context_help_title_art_purge">Очистка ART-кеша</string>
 	<string name="context_help_desc_art_purge">Данное действие очистит весь кэш кода Android Runtime. Это может быть полезно, если не хватает памяти или когда прошивка работает с ошибками. Предупреждение! В течение некоторого времени устройство будет сильнее нагреваться и потреблять больше заряда батареи…</string>
 	<string name="page_system_workarounds">Решения системных проблем</string>
-	<string name="workarounds_category_google" translatable="false">Google Play сервисы</string>
 	<string name="workarounds_forbid_gms_updates">Запретить обновления GMS</string>
 	<string name="workarounds_rollback_gms_version">Вернуть предыдущую версию GMS</string>
 	<string name="workarounds_apkmirror_for_gms">Нажмите здесь для открытия страницы ApkMirror со сборками GMS…</string>

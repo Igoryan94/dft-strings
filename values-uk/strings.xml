@@ -74,7 +74,6 @@
 	<string name="app_disabler_category_active">Активні</string>
 	<string name="app_disabler_filter_hint">Фільтр...</string>
 	<string name="page_frozen_apps_launcher">Панель запуску заморожених програм.</string>
-	<string name="frozen_launcher_action_reset_excluded">Скидання виключено</string>
 	<string name="frozen_launcher_unknown_app_title">Невідомий додаток</string>
 	<string name="workarounds_category_network">Мережа</string>
 	<string name="workarounds_improve_mobile_network_latency">Покращення затримки мобільної мережі</string>
@@ -82,4 +81,10 @@
 	<string name="context_help_title_app_freezer">Замороження додатків</string>
 	<string name="context_help_desc_app_freezer">Це меню дозволяє заморожувати/розморожувати користувацькі/системні програми на вимогу з можливістю пошуку.</string>
 	<string name="workarounds_disable_google_play_services">Вимкнути служби Google Play.</string>
+	<string name="frozen_launcher_edit_excluded_list">Edit excluded apps list</string>
+	<string name="frozen_launcher_edit_mode_apply_app_list_changes">Apply app list changes</string>
+	<string name="frozen_launcher_edit_app_list_select_unselect_all">Select/unselect all</string>
+	<string name="frozen_launcher_dialog_text_unfreeze_app">Are you sure you want to unfreeze %s app?</string>
+	<string name="frozen_launcher_dialog_title_unfreeze_app">Unfreeze app</string>
+	<string name="frozen_launcher_lock_all_unfrozen_on_demand">Lock all unfrozen now (will work in 15 seconds)</string>
 </resources>
