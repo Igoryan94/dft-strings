@@ -86,7 +86,7 @@
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Разморозить приложение</string>
 	<string name="frozen_launcher_freeze_all_unfrozen_on_demand">Заморозить все временно размороженные приложения</string>
 	<string name="app_disabler_open_frozen_launcher">Открыть пуск замороженных</string>
-	<string name="workarounds_lock_gms_android_version_12_and_higher">У вас установлена 12 версия Android или выше, поэтому вариантов, как заблокировать версию GMS, только один. Суть заключается в том, чтобы попасть на экран GMS и блокировать использование фоновых данных для него. После этого, Google сервисы перестанут обновляться. Нажмите здесь, чтобы открыть экран приложения…</string>
+	<string name="workarounds_lock_gms_android_version_12_and_higher">У вас установлена 12 версия Android, или выше, поэтому есть лишь один вариант блокировки версии GMS. Суть заключается в том, чтобы в свойствах приложения GMS запретить ему использование фоновых данных. После этого Google сервисы перестанут обновляться. Нажмите здесь, чтобы открыть экран свойств приложения…</string>
 	<string name="frozen_launcher_freeze_apps_automatically">Автоматически замораживать приложения при выключенном экране</string>
 	<string name="context_help_title_frozen_launcher_auto_freeze_apps">Авто заморозка приложений</string>
 	<string name="context_help_desc_frozen_launcher_auto_freeze_apps">Если настройка включена, то DfT будет автоматически замораживать активные приложения после того, как экран потухнет. Предупреждение! Приложения будут перезаморожены после изменения этой настройки...</string>
