@@ -91,4 +91,5 @@
 	<string name="context_help_title_frozen_launcher_auto_freeze_apps">Авто заморозка приложений</string>
 	<string name="context_help_desc_frozen_launcher_auto_freeze_apps">Если настройка включена, то DfT будет автоматически замораживать активные приложения после того, как экран потухнет. Предупреждение! Приложения будут перезаморожены после изменения этой настройки...</string>
 	<string name="page_display">Экран</string>
+	<string name="app_disabler_package_class_can_be_frozen">Can be frozen</string>
 </resources>
