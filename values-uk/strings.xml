@@ -85,7 +85,7 @@
 	<string name="frozen_launcher_edit_app_list_select_unselect_all">Вибрати/скасувати вибір усіх</string>
 	<string name="frozen_launcher_dialog_text_unfreeze_app">Ви впевнені, що бажаєте розморозити програму %s?</string>
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Розморозити програму</string>
-	<string name="frozen_launcher_freeze_all_unfrozen_on_demand">Freeze all unfrozen now</string>
-	<string name="app_disabler_open_frozen_launcher">Open frozen launcher</string>
-	<string name="workarounds_lock_gms_version_a12_and_higher">Your Android version is 12 or higher, so you can lock GMS version one way only. The way is to get to GMS app screen and to lock the background data usage for it. After that, the Google service will not update anymore. Click here to proceed to the app screen…</string>
+	<string name="frozen_launcher_freeze_all_unfrozen_on_demand">Заморозити все незаморожене зараз</string>
+	<string name="app_disabler_open_frozen_launcher">Відкрити лаунчер заморожень</string>
+	<string name="workarounds_lock_gms_version_a12_and_higher">Ваша версія Android 12 або вище, тому ви можете заблокувати версію GMS лише одним способом. Спосіб полягає в тому, щоб перейти на екран програми GMS і заблокувати для нього використання фонових даних. Після цього сервіс Google більше не оновлюватиметься. Натисніть тут, щоб перейти до екрана програми…</string>
 </resources>
