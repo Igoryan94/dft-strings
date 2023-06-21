@@ -89,6 +89,6 @@
 	<string name="frozen_launcher_edit_app_list_select_unselect_all">Select/unselect all</string>
 	<string name="frozen_launcher_dialog_text_unfreeze_app">Are you sure you want to unfreeze %s app?</string>
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Unfreeze app</string>
-	<string name="frozen_launcher_lock_all_unfrozen_on_demand">Lock all unfrozen now (will work in 15 seconds)</string>
+	<string name="frozen_launcher_freeze_all_unfrozen_on_demand">Freeze all unfrozen now</string>
 	<string name="app_disabler_open_frozen_launcher">Open frozen launcher</string>
 </resources>

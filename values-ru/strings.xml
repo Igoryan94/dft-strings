@@ -84,6 +84,6 @@
 	<string name="frozen_launcher_edit_app_list_select_unselect_all">Выбрать/убрать всё</string>
 	<string name="frozen_launcher_dialog_text_unfreeze_app">Вы уверены, что хотите разморозить %s?</string>
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Разморозить приложение</string>
-	<string name="frozen_launcher_lock_all_unfrozen_on_demand">Заблокировать все замороженные приложения (Применится в течение 15 секунд)</string>
+	<string name="frozen_launcher_freeze_all_unfrozen_on_demand">Заморозить все временно размороженные приложения</string>
 	<string name="app_disabler_open_frozen_launcher">Open frozen launcher</string>
 </resources>
