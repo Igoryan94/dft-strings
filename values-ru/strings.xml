@@ -88,4 +88,6 @@
 	<string name="app_disabler_open_frozen_launcher">Open frozen launcher</string>
 	<string name="workarounds_lock_gms_android_version_12_and_higher">Your Android version is 12 or higher, so you can lock GMS version one way only. The way is to get to GMS app screen and to lock the background data usage for it. After that, the Google service will not update anymore. Click here to proceed to the app screen…</string>
 	<string name="disabled_launcher_freeze_apps_automatically">Freeze apps automatically when screen off</string>
+	<string name="context_help_title_frozen_launcher_auto_freeze_apps">Auto freeze apps</string>
+	<string name="context_help_desc_frozen_launcher_auto_freeze_apps">If enabled, DfT will auto freeze launched apps after the display gets off. Warning! The apps will re-freeze after changing this setting...</string>
 </resources>
