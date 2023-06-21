@@ -71,7 +71,7 @@
 	<string name="app_settings_main_app_one_handed_mode">Режим однією рукою</string>
 	<string name="schedtune_toggle_apply_after_boot">Застосувати після завантаження.</string>
 	<string name="app_disabler_category_user">Активні</string>
-	<string name="app_disabler_filter_hint">Фільтр...</string>
+	<string name="app_disabler_filter_hint">Фільтр…</string>
 	<string name="page_frozen_apps_launcher">Панель запуску заморожених програм.</string>
 	<string name="frozen_launcher_unknown_app_title">Невідомий додаток</string>
 	<string name="workarounds_category_network">Мережа</string>
@@ -87,4 +87,5 @@
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Розморозити програму</string>
 	<string name="frozen_launcher_freeze_all_unfrozen_on_demand">Freeze all unfrozen now</string>
 	<string name="app_disabler_open_frozen_launcher">Open frozen launcher</string>
+	<string name="workarounds_lock_gms_version_a12_and_higher">Your Android version is 12 or higher, so you can lock GMS version one way only. The way is to get to GMS app screen and to lock the background data usage for it. After that, the Google service will not update anymore. Click here to proceed to the app screen…</string>
 </resources>
