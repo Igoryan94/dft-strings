@@ -57,11 +57,11 @@
 	<string name="context_help_desc_art_purge">Данное действие очистит весь кэш кода Android Runtime. Это может быть полезно, если не хватает памяти или когда прошивка работает с ошибками. Предупреждение! В течение некоторого времени устройство будет сильнее нагреваться и потреблять больше заряда батареи…</string>
 	<string name="page_system_workarounds">Решения системных проблем</string>
 	<string name="workarounds_forbid_gms_updates">Запретить обновления GMS</string>
-	<string name="workarounds_rollback_gms_version">Вернуть предыдущую версию GMS</string>
+	<string name="workarounds_rollback_gms_version">Откатить версию GMS</string>
 	<string name="workarounds_apkmirror_for_gms">Нажмите здесь для открытия страницы ApkMirror со сборками GMS…</string>
 	<string name="context_help_title_workarounds_gms_download">Скачать APK GMS</string>
 	<string name="context_help_desc_workarounds_gms_download">Это позволяет вам выбирать и загружать нужные версии приложения Google Services. Обратите внимание, что в большинстве случаев для этого потребуется внешнее приложение для установки split-apk, поскольку DfT его пока не поддерживает… Пожалуйста, откатите текущий установленный GMS перед установкой, нажав кнопку ниже.</string>
-	<string name="context_help_title_workarounds_gms_rollback">Вернуть предыдущую версию Google services</string>
+	<string name="context_help_title_workarounds_gms_rollback">Откатить версию Google services</string>
 	<string name="context_help_desc_workarounds_gms_rollback">Это позволяет вам установить любую желаемую версию GMS, чтобы обойти некоторые не стандартные проблемы с батареей (разумеется, созданные Google), например</string>
 	<string name="context_help_title_workarounds_gms_conserve">Отключить обновления GMS</string>
 	<string name="context_help_desc_workarounds_gms_conserve">Предотвращает Google mobile services от обновлений. Используйте, если вы хотите избежать некоторых критических ошибок GMS, приводящих к большому расходу заряда батареи и т.д. Предупреждение! При удалении DfT не забудьте отключить эту опцию!</string>
@@ -85,13 +85,14 @@
 	<string name="frozen_launcher_dialog_text_unfreeze_app">Вы уверены, что хотите разморозить %s?</string>
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Разморозить приложение</string>
 	<string name="frozen_launcher_freeze_all_unfrozen_on_demand">Заморозить все временно размороженные приложения</string>
-	<string name="app_disabler_open_frozen_launcher">Открыть пуск замороженных</string>
+	<string name="app_disabler_open_frozen_launcher">Открыть запуск замороженных</string>
 	<string name="workarounds_lock_gms_android_version_12_and_higher">У вас установлена 12 версия Android, или выше, поэтому есть лишь один вариант блокировки версии GMS. Суть заключается в том, чтобы в свойствах приложения GMS запретить ему использование фоновых данных. После этого Google сервисы перестанут обновляться. Нажмите здесь, чтобы открыть экран свойств приложения…</string>
 	<string name="frozen_launcher_freeze_apps_automatically">Автоматически замораживать приложения при выключенном экране</string>
 	<string name="context_help_title_frozen_launcher_auto_freeze_apps">Авто заморозка приложений</string>
 	<string name="context_help_desc_frozen_launcher_auto_freeze_apps">Если настройка включена, то DfT будет автоматически замораживать активные приложения после того, как экран потухнет. Предупреждение! Приложения будут перезаморожены после изменения этой настройки...</string>
-	<string name="page_display">Экран</string>
+	<string name="page_screen">Экран</string>
 	<string name="app_disabler_package_class_can_be_frozen">Можно заморозить</string>
 	<string name="display_subtitle_android_system_settings">Android system settings</string>
-	<string name="display_subtitle_screen_settings">Screen</string>
+	<string name="display_subtitle_display_settings">Дисплей</string>
+	<string name="display_color_saturation">Color saturation</string>
 </resources>
