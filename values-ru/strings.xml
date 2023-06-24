@@ -31,7 +31,7 @@
 	<string name="app_settings_colors_apply_random_color">Применить случайный цвет</string>
 	<string name="app_settings_color_theme_action_choose_custom_color">Выбор своего цвета темы</string>
 	<string name="main_menu_category_other">Другое</string>
-	<string name="page_animations_speed">Скорость системных анимаций</string>
+	<string name="display_system_animations_speed">Скорость анимаций</string>
 	<string name="dialog_set_system_animation_speed_title">Установить скорость анимаций</string>
 	<string name="dialog_set_system_animation_speed_value_applied_fmt">Скорость системных анимаций выставлена на: %s</string>
 	<string name="dialog_set_system_animation_speed_edit_preset">Редактировать предустановку</string>
@@ -92,4 +92,6 @@
 	<string name="context_help_desc_frozen_launcher_auto_freeze_apps">Если настройка включена, то DfT будет автоматически замораживать активные приложения после того, как экран потухнет. Предупреждение! Приложения будут перезаморожены после изменения этой настройки...</string>
 	<string name="page_display">Экран</string>
 	<string name="app_disabler_package_class_can_be_frozen">Можно заморозить</string>
+	<string name="display_subtitle_android_system_settings">Android system settings</string>
+	<string name="display_subtitle_screen_settings">Screen</string>
 </resources>
