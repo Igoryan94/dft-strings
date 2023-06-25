@@ -103,5 +103,4 @@
 	<string name="app_info_action_copied_to_clipboard">Copied card number to clipboard…</string>
 	<string name="app_info_donate_hint">For now, you can only donate to the project from Russia, since I (@DfP_DEV), the author of the application, live there. You can make a transfer to my Otkritie bank card using the following number. The click will copy the number to the clipboard…</string>
 	<string name="app_disabler_unfreeze_all_apps">Unfreeze all apps</string>
-	<string name="frozen_launcher_toggle_show_launchable">Show launchable/all apps</string>
 </resources>
