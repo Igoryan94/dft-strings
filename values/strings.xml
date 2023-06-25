@@ -100,4 +100,7 @@
 	<string name="display_subtitle_android_system_settings">Android system settings</string>
 	<string name="display_subtitle_display_settings">Display</string>
 	<string name="display_color_saturation">Color saturation</string>
+	<string name="page_app_info">App info</string>
+	<string name="app_info_category_information">Information</string>
+	<string name="app_info_category_donate">Donate</string>
 </resources>
