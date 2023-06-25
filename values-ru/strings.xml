@@ -98,4 +98,5 @@
 	<string name="page_app_info">App info</string>
 	<string name="app_info_category_information">Information</string>
 	<string name="app_info_category_donate">Donate</string>
+	<string name="context_help_desc_main_menu_app_info">This window provides you some information about Dragonfly Tweaks, such as donate, credits to some people, etc.</string>
 </resources>
