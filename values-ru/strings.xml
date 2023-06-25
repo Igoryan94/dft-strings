@@ -95,7 +95,7 @@
 	<string name="display_subtitle_android_system_settings">Системные настройки Android</string>
 	<string name="display_subtitle_display_settings">Экран</string> <!--Дисплей?-->
 	<string name="display_color_saturation">Насыщенность цвета</string>
-	<string name="page_app_info">Информация о приложении</string>
+	<string name="page_app_info">О приложении</string>
 	<string name="app_info_category_information">Информация</string>
 	<string name="app_info_category_donate">Поддержать монетой автора</string>
 	<string name="context_help_desc_main_menu_app_info">В этом окне представлена информация об Dragonfly Tweaks, например, поддержка автора, меценаты проекта и т.д</string>
