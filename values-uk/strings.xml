@@ -94,10 +94,10 @@
 	<string name="page_screen">Екран</string>
 	<string name="app_disabler_package_class_can_be_frozen">Можна заморожувати</string>
 	<string name="display_subtitle_android_system_settings">Системні налаштування Андроїд</string>
-	<string name="display_subtitle_display_settings">Display</string>
-	<string name="display_color_saturation">Color saturation</string>
-	<string name="page_app_info">App info</string>
-	<string name="app_info_category_information">Information</string>
-	<string name="app_info_category_donate">Donate</string>
-	<string name="context_help_desc_main_menu_app_info">This window provides you some information about Dragonfly Tweaks, such as donate, credits to some people, etc.</string>
+	<string name="display_subtitle_display_settings">Дисплей</string>
+	<string name="display_color_saturation">Насиченість кольору</string>
+	<string name="page_app_info">Інформація про додаток</string>
+	<string name="app_info_category_information">Інформація</string>
+	<string name="app_info_category_donate">Пожертвувати</string>
+	<string name="context_help_desc_main_menu_app_info">У цьому вікні надається деяка інформація про налаштування Dragonfly, як-от пожертви, подяка деяким людям, тощо.</string>
 </resources>
