@@ -81,7 +81,7 @@
 	<string name="workarounds_disable_google_play_services">Отключить Google Play services</string>
 	<string name="frozen_launcher_edit_excluded_list">Редактировать список исключенных приложений</string>
 	<string name="frozen_launcher_edit_mode_apply_app_list_changes">Применить изменения в списке приложений</string>
-	<string name="frozen_launcher_edit_app_list_select_unselect_all">Выбрать/убрать всё</string>
+	<string name="frozen_launcher_edit_app_list_select_unselect_all">Выбрать приложение/снять все выделенное</string>
 	<string name="frozen_launcher_dialog_text_unfreeze_app">Вы уверены, что хотите разморозить %s?</string>
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Разморозить приложение</string>
 	<string name="frozen_launcher_freeze_all_unfrozen_on_demand">Заморозить все временно размороженные приложения</string>
@@ -92,11 +92,11 @@
 	<string name="context_help_desc_frozen_launcher_auto_freeze_apps">Если настройка включена, то DfT будет автоматически замораживать активные приложения после того, как экран потухнет. Предупреждение! Приложения будут перезаморожены после изменения этой настройки...</string>
 	<string name="page_screen">Экран</string>
 	<string name="app_disabler_package_class_can_be_frozen">Можно заморозить</string>
-	<string name="display_subtitle_android_system_settings">Android system settings</string>
-	<string name="display_subtitle_display_settings">Дисплей</string>
-	<string name="display_color_saturation">Color saturation</string>
-	<string name="page_app_info">App info</string>
-	<string name="app_info_category_information">Information</string>
-	<string name="app_info_category_donate">Donate</string>
-	<string name="context_help_desc_main_menu_app_info">This window provides you some information about Dragonfly Tweaks, such as donate, credits to some people, etc.</string>
+	<string name="display_subtitle_android_system_settings">Системные настройки Android</string>
+	<string name="display_subtitle_display_settings">Экран</string> <!--Дисплей?-->
+	<string name="display_color_saturation">Насыщенность цвета</string>
+	<string name="page_app_info">Информация о приложении</string>
+	<string name="app_info_category_information">Информация</string>
+	<string name="app_info_category_donate">Поддержать монетой автора</string>
+	<string name="context_help_desc_main_menu_app_info">В этом окне представлена информация об Dragonfly Tweaks, например, поддержка автора, меценаты проекта и т.д</string>
 </resources>
