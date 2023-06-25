@@ -81,7 +81,7 @@
 	<string name="workarounds_disable_google_play_services">Отключить Google Play services</string>
 	<string name="frozen_launcher_edit_excluded_list">Редактировать список исключенных приложений</string>
 	<string name="frozen_launcher_edit_mode_apply_app_list_changes">Применить изменения в списке приложений</string>
-	<string name="frozen_launcher_edit_app_list_select_unselect_all">Выбрать приложение/снять все выделенное</string>
+	<string name="frozen_launcher_edit_app_list_select_unselect_all">Выделить всё/снять все выделенное</string>
 	<string name="frozen_launcher_dialog_text_unfreeze_app">Вы уверены, что хотите разморозить %s?</string>
 	<string name="frozen_launcher_dialog_title_unfreeze_app">Разморозить приложение</string>
 	<string name="frozen_launcher_freeze_all_unfrozen_on_demand">Заморозить все временно размороженные приложения</string>
