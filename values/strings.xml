@@ -108,5 +108,5 @@
 	<string name="app_info_donate_hint">For now, you can only donate to the project from Russia, since I (@DfP_DEV), the author of the application, live there. You can make a transfer to my Open Bank card using the following number. The click will copy the number to the clipboard…</string>
 	<string name="app_disabler_unfreeze_all_apps">Unfreeze all apps</string>
 	<string name="app_disabler_package_class_dangerous_to_freeze">Dangerous to freeze</string>
-	<string name="frozen_launcher_edit_mode_loading_apps">List editor is loading apps...</string>
+	<string name="frozen_launcher_dialog_apps_loading">Loading apps…</string>
 </resources>
