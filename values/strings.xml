@@ -1,5 +1,6 @@
 <resources>
 	<string name="app_name" translatable="false">DfT</string>
+	<string name="app_name_full" translatable="false">Dragonfly Tweaks</string>
 
 	<string name="main_menu_category_power">Power</string>
 	<string name="page_art" translatable="false">Android Runtime</string>
@@ -112,4 +113,10 @@
 	<string name="app_shortcut_freeze_unfrozen">Freeze unfrozen</string>
 	<string name="app_shortcut_app_disabler">App disabler</string>
 	<string name="app_shortcut_frozen_launcher">Frozen launcher</string>
+	<string name="page_battery_info">Battery info</string>
+	<string name="battery_info_subtitle_potential_data">Battery potential data</string>
+	<string name="battery_info_potential_remains_text_fmt">Remains (accuracy ~95%%): %d mAh</string>
+	<string name="battery_info_fact_remains_text_fmt">Current charge: %d mAh</string>
+	<string name="battery_info_discharging_power_text_fmt">Consumed in an hour: %d mAh</string>
+	<string name="battery_info_charging_power_text_fmt">Charged in an hour: %d mAh</string>
 </resources>
