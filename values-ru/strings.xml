@@ -93,7 +93,7 @@
 	<string name="page_screen">Экран</string>
 	<string name="app_disabler_package_class_can_be_frozen">Можно заморозить</string>
 	<string name="display_subtitle_android_system_settings">Системные настройки Android</string>
-	<string name="display_subtitle_display_settings">Экран</string> <!--Дисплей?-->
+	<string name="display_subtitle_display_settings">Дисплей</string> <!--Дисплей?-->
 	<string name="display_color_saturation">Насыщенность цвета</string>
 	<string name="page_app_info">О приложении</string>
 	<string name="app_info_category_information">Информация</string>
