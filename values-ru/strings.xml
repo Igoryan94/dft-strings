@@ -19,6 +19,7 @@
 	<string name="context_help_title_main_menu_stune">Об CFS SchedTune</string>
 	<string name="context_help_desc_main_menu_stune">SchedTune (или Stune) является движком подъёма значения нагрузки процессов в планировщике процессов Android (CFS). Настройка некоторых значений (в процентах) для группы процессов в результате дает более быстрое выполнение данных процессов. Это может вызвать нагрев и повышение частот процессора, но также ведет к увеличению производительности.</string>
 	<string name="schedtune_category_class_boosts">Разгон приложений, в процентах</string>
+	<!-- TODO change "overclock apps" above to something better... -->
 	<string name="context_help_schedtune_read_error_title">Ошибка!</string>
 	<string name="context_help_schedtune_read_error_text">Ошибка получения значений SchedTune…</string>
 	<string name="main_menu_category_app">Приложение</string>
