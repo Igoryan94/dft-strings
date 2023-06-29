@@ -120,4 +120,5 @@
 	<string name="battery_info_discharging_power_text_fmt">Consumed in an hour: %d mAh</string>
 	<string name="battery_info_charging_power_text_fmt">Charged in an hour: %d mAh</string>
 	<string name="battery_info_temperature_text_fmt">Temperature is %.1f °C</string>
+	<string name="app_disabler_show_system_apps">Show system apps</string>
 </resources>
