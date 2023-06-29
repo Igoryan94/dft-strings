@@ -119,4 +119,5 @@
 	<string name="battery_info_fact_remains_text_fmt">Current charge: %d mAh</string>
 	<string name="battery_info_discharging_power_text_fmt">Consumed in an hour: %d mAh</string>
 	<string name="battery_info_charging_power_text_fmt">Charged in an hour: %d mAh</string>
+	<string name="battery_info_temperature_text_fmt">Temperature is %.1f °C</string>
 </resources>
