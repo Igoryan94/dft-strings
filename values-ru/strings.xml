@@ -110,7 +110,7 @@
 	<string name="app_shortcut_frozen_launcher">Frozen launcher</string>
 	<string name="page_battery_info">Battery info</string>
 	<string name="battery_info_subtitle_potential_data">Battery potential data</string>
-	<string name="battery_info_potential_remains_text_fmt">Remains (accuracy ~95%%): %d mAh</string>
+	<string name="battery_info_potential_capacity_text_fmt">Capacity (accuracy ~95%%): %d mAh</string>
 	<string name="battery_info_fact_remains_text_fmt">Current charge: %d mAh</string>
 	<string name="battery_info_discharging_power_text_fmt">Consumed in an hour: %d mAh</string>
 	<string name="battery_info_charging_power_text_fmt">Charged in an hour: %d mAh</string>
