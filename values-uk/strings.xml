@@ -104,4 +104,5 @@
 	<string name="app_info_donate_hint">Поки що пожертвувати на проект можна лише з Росії, оскільки я (@DfP_DEV), автор програми, там проживаю. Ви можете здійснити переказ на картку банку «Открытие» за наступним номером. Натисніть щоб скопіювати номер у буфер обміну...</string>
 	<string name="app_disabler_unfreeze_all_apps">Розморозити всі програми</string>
 	<string name="app_disabler_package_class_dangerous_to_freeze">Dangerous to freeze</string>
+	<string name="frozen_launcher_edit_mode_loading_apps">List editor is loading apps...</string>
 </resources>
