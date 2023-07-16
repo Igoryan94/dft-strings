@@ -116,7 +116,7 @@
 	<string name="battery_info_charging_power_text_fmt">Заряд за час: %d мАч</string>
 	<string name="battery_info_temperature_text_fmt">Температура: %.1f °C</string>
 	<string name="app_disabler_show_system_apps">Показывать системные приложения</string>
-	<string name="frozen_launcher_text_no_unfrozen_apps">Нет размороженных приложений...</string>
+	<string name="frozen_launcher_text_no_unfrozen_apps">Нет размороженных приложений…</string>
 	<string name="app_shortcut_display_anim_speed">Скорость аним.</string>
 	<string name="schedtune_edit_top">Edit top-app SchedTune boost</string>
 	<string name="schedtune_edit_fg">Edit foreground SchedTune boost</string>

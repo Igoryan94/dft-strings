@@ -104,7 +104,7 @@
 	<string name="app_info_donate_hint">Поки що пожертвувати на проект можна лише з Росії, оскільки я (@DfP_DEV), автор програми, там проживаю. Ви можете здійснити переказ на картку банку «Открытие» за наступним номером. Натисніть щоб скопіювати номер у буфер обміну…</string>
 	<string name="app_disabler_unfreeze_all_apps">Розморозити всі програми</string>
 	<string name="app_disabler_package_class_dangerous_to_freeze">Небезпечно заморожувати!</string>
-	<string name="dialog_apps_loading_text">Завантаження додатків...</string>
+	<string name="dialog_apps_loading_text">Завантаження додатків…</string>
 	<string name="app_shortcut_freeze_unfrozen">Заморозити незаморожене</string>
 	<string name="app_shortcut_app_disabler">Відключення додатків</string>
 	<string name="app_shortcut_frozen_launcher">Лаунчер заморожень</string>
@@ -116,7 +116,7 @@
 	<string name="battery_info_charging_power_text_fmt">Зарядився за годину: %d mAh</string>
 	<string name="battery_info_temperature_text_fmt">Температура %.1f °C</string>
 	<string name="app_disabler_show_system_apps">Показати системні програми</string>
-	<string name="frozen_launcher_text_no_unfrozen_apps">Немає розморожених програм...</string>
+	<string name="frozen_launcher_text_no_unfrozen_apps">Немає розморожених програм…</string>
 	<string name="app_shortcut_display_anim_speed">Швидкість анімацій</string>
 	<string name="schedtune_edit_top">Edit top-app SchedTune boost</string>
 	<string name="schedtune_edit_fg">Edit foreground SchedTune boost</string>
