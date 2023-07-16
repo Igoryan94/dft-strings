@@ -118,13 +118,13 @@
 	<string name="app_disabler_show_system_apps">Показати системні програми</string>
 	<string name="frozen_launcher_text_no_unfrozen_apps">Немає розморожених програм...</string>
 	<string name="app_shortcut_display_anim_speed">Швидкість анімацій</string>
-	<string name="schedtune_edit_top">Edit top-app Schedtune boost</string>
+	<string name="schedtune_edit_top">Edit top-app SchedTune boost</string>
 	<string name="schedtune_edit_fg">Edit foreground SchedTune boost</string>
 	<string name="schedtune_edit_rt">Edit realtime SchedTune boost</string>
 	<string name="schedtune_edit_bg">Edit background SchedTune boost</string>
-	<string name="time_hours">hour(s)</string>
-	<string name="app_settings_category_optimization">Optimization</string>
+	<string name="time_hours">година(и)</string>
+	<string name="app_settings_category_optimization">Оптимизація</string>
 	<string name="app_settings_app_lists_skip_getting_icons">Skip getting app icons to boost app lists loading</string>
-	<string name="workarounds_category_other">Other</string>
+	<string name="workarounds_category_other">Інше</string>
 	<string name="workarounds_long_click_actions_timeout">System timeout for all long click actions (ms)</string>
 </resources>
