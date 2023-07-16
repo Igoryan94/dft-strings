@@ -4,7 +4,7 @@
 	<string name="dialog_operation_purge_art_cache_in_progress">Очистка всего кэша кода…</string>
 	<string name="dialog_operation_purge_art_cache_cancelled">Очистка ART-кэша отменена, операция не выполнена</string>
 	<string name="dialog_operation_purge_art_cache_title">Очистка ART-кэша</string>
-	<string name="dialog_operation_purge_art_cache_confirm_text">Вы действительно хотите очистить весь ART-кеш-код?</string>
+	<string name="dialog_operation_purge_art_cache_confirm_text">Вы действительно хотите очистить весь кэш кода ART?</string>
 	<string name="dialog_button_confirm">Подтвердить</string>
 	<string name="dialog_button_cancel">Отмена</string>
 	<string name="page_resources_control">Контроль ресурсов</string>
@@ -111,10 +111,20 @@
 	<string name="page_battery_info">Сведения о батарее</string>
 	<string name="battery_info_subtitle_potential_data">Данные о потенциале батареи</string>
 	<string name="battery_info_potential_capacity_text_fmt">Ёмкость (точность ~95%%): %d мАч</string>
-	<string name="battery_info_fact_remains_text_fmt">Текущий заряд: %d мАч (%d%%)</string>
+	<string name="battery_info_fact_remains_text_fmt">Текущий заряд: %d мАч (%d%%), хватит на: %s</string>
 	<string name="battery_info_discharging_power_text_fmt">Расход за час: %d мАч</string>
 	<string name="battery_info_charging_power_text_fmt">Заряд за час: %d мАч</string>
 	<string name="battery_info_temperature_text_fmt">Температура: %.1f °C</string>
 	<string name="app_disabler_show_system_apps">Показывать системные приложения</string>
 	<string name="frozen_launcher_text_no_unfrozen_apps">Нет размороженных приложений...</string>
+	<string name="app_shortcut_display_anim_speed">Скорость аним.</string>
+	<string name="schedtune_edit_top">Edit top-app SchedTune boost</string>
+	<string name="schedtune_edit_fg">Edit foreground SchedTune boost</string>
+	<string name="schedtune_edit_rt">Edit realtime SchedTune boost</string>
+	<string name="schedtune_edit_bg">Edit background SchedTune boost</string>
+	<string name="time_hours">hour(s)</string>
+	<string name="app_settings_category_optimization">Optimization</string>
+	<string name="app_settings_app_lists_skip_getting_icons">Skip getting app icons to boost app lists loading</string>
+	<string name="workarounds_category_other">Other</string>
+	<string name="workarounds_long_click_actions_timeout">System timeout for all long click actions (ms)</string>
 </resources>

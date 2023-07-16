@@ -111,10 +111,20 @@
 	<string name="page_battery_info">Battery info</string>
 	<string name="battery_info_subtitle_potential_data">Battery potential data</string>
 	<string name="battery_info_potential_capacity_text_fmt">Capacity (accuracy ~95%%): %d mAh</string>
-	<string name="battery_info_fact_remains_text_fmt">Current charge: %d mAh (%d%%)</string>
+	<string name="battery_info_fact_remains_text_fmt">Current charge: %d mAh (%d%%), time left: %s</string>
 	<string name="battery_info_discharging_power_text_fmt">Consumed in an hour: %d mAh</string>
 	<string name="battery_info_charging_power_text_fmt">Charged in an hour: %d mAh</string>
 	<string name="battery_info_temperature_text_fmt">Temperature is %.1f °C</string>
 	<string name="app_disabler_show_system_apps">Show system apps</string>
 	<string name="frozen_launcher_text_no_unfrozen_apps">No unfrozen apps...</string>
+	<string name="app_shortcut_display_anim_speed">Anim. speed</string>
+	<string name="schedtune_edit_top">Edit top-app SchedTune boost</string>
+	<string name="schedtune_edit_fg">Edit foreground SchedTune boost</string>
+	<string name="schedtune_edit_rt">Edit realtime SchedTune boost</string>
+	<string name="schedtune_edit_bg">Edit background SchedTune boost</string>
+	<string name="time_hours">hour(s)</string>
+	<string name="app_settings_category_optimization">Optimization</string>
+	<string name="app_settings_app_lists_skip_getting_icons">Skip getting app icons to boost app lists loading</string>
+	<string name="workarounds_category_other">Other</string>
+	<string name="workarounds_long_click_actions_timeout">System timeout for all long click actions (ms)</string>
 </resources>
