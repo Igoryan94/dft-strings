@@ -111,7 +111,8 @@
 	<string name="page_battery_info">Інформація про акумулятор</string>
 	<string name="battery_info_subtitle_potential_data">Дані про потенціал батареї</string>
 	<string name="battery_info_potential_capacity_text_fmt"> Ємність (точність ~95%%): %d mAh</string>
-	<string name="battery_info_fact_remains_text_fmt">Поточний заряд: %d mAh (%d%%), досить на: %s</string>
+	<string name="battery_info_fact_remains_text_fmt">Поточний заряд: %d mAh (%d%%)</string>
+	<string name="battery_info_time_remains_text_fmt">Досить на: %.2f година(и)</string>
 	<string name="battery_info_discharging_power_text_fmt">Витрачено за годину: %d mAh</string>
 	<string name="battery_info_charging_power_text_fmt">Зарядився за годину: %d mAh</string>
 	<string name="battery_info_temperature_text_fmt">Температура %.1f °C</string>
@@ -122,7 +123,6 @@
 	<string name="schedtune_edit_fg">Edit foreground SchedTune boost</string>
 	<string name="schedtune_edit_rt">Edit realtime SchedTune boost</string>
 	<string name="schedtune_edit_bg">Edit background SchedTune boost</string>
-	<string name="time_hours">година(и)</string>
 	<string name="app_settings_category_optimization">Оптимизація</string>
 	<string name="app_settings_app_lists_skip_getting_icons">Skip getting app icons to boost app lists loading</string>
 	<string name="workarounds_category_other">Інше</string>
