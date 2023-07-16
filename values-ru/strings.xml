@@ -112,7 +112,7 @@
 	<string name="battery_info_subtitle_potential_data">Данные о потенциале батареи</string>
 	<string name="battery_info_potential_capacity_text_fmt">Ёмкость (точность ~95%%): %d мАч</string>
 	<string name="battery_info_fact_remains_text_fmt">Текущий заряд: %d мАч (%d%%)</string>
-	<string name="battery_info_time_remains_text">Хватит примерно на: </string>
+	<string name="battery_info_time_remains_text">Хватит примерно на </string>
 	<string name="battery_info_discharging_power_text_fmt">Расход за час: %d мАч</string>
 	<string name="battery_info_charging_power_text_fmt">Заряд за час: %d мАч</string>
 	<string name="battery_info_temperature_text_fmt">Температура: %.1f °C</string>
@@ -127,13 +127,13 @@
 	<string name="app_settings_app_lists_skip_getting_icons">Skip getting app icons to boost app lists loading</string>
 	<string name="workarounds_category_other">Other</string>
 	<string name="workarounds_long_click_actions_timeout">System timeout for all long click actions (ms)</string>
-	<string name="date_string_day">"%d день "</string>
-	<string name="date_string_days">"%d дней "</string>
-	<string name="date_string_days_alt">"%d дня "</string>
-	<string name="date_string_hour">"%d час "</string>
-	<string name="date_string_hours">"%d часов "</string>
-	<string name="date_string_hours_alt">%d часа </string>
-	<string name="date_string_minute">"%d минута "</string>
-	<string name="date_string_minutes">"%d минут "</string>
-	<string name="date_string_minutes_alt">"%d минуты "</string>
+	<string name="date_string_day">%d день</string>
+	<string name="date_string_days">%d дней</string>
+	<string name="date_string_days_alt">%d дня</string>
+	<string name="date_string_hour">%d час</string>
+	<string name="date_string_hours">%d часов</string>
+	<string name="date_string_hours_alt">%d часа</string>
+	<string name="date_string_minute">%d минута</string>
+	<string name="date_string_minutes">%d минут</string>
+	<string name="date_string_minutes_alt">%d минуты</string>
 </resources>

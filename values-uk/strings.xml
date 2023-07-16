@@ -127,13 +127,13 @@
 	<string name="app_settings_app_lists_skip_getting_icons">Skip getting app icons to boost app lists loading</string>
 	<string name="workarounds_category_other">Інше</string>
 	<string name="workarounds_long_click_actions_timeout">System timeout for all long click actions (ms)</string>
-	<string name="date_string_day">"%d day "</string>
-	<string name="date_string_days">"%d days "</string>
-	<string name="date_string_days_alt">"%d дня "</string>
-	<string name="date_string_hour">"%d hour "</string>
-	<string name="date_string_hours">"%d hours "</string>
-	<string name="date_string_hours_alt">%d часа </string>
-	<string name="date_string_minute">"%d minute "</string>
-	<string name="date_string_minutes">"%d minutes "</string>
-	<string name="date_string_minutes_alt">"%d минуты "</string>
+	<string name="date_string_day">%d day</string>
+	<string name="date_string_days">%d days</string>
+	<string name="date_string_days_alt">%d дня</string>
+	<string name="date_string_hour">%d hour</string>
+	<string name="date_string_hours">%d hours</string>
+	<string name="date_string_hours_alt">%d часа</string>
+	<string name="date_string_minute">%d minute</string>
+	<string name="date_string_minutes">%d minutes</string>
+	<string name="date_string_minutes_alt">%d минуты</string>
 </resources>
