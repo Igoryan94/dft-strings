@@ -138,4 +138,5 @@
 	<string name="date_string_minutes_alt">%d минуты</string>
 	<string name="context_help_desc_frozen_launcher">This menu provides a handy way to launch frozen applications and to freeze them back later. Long clicking window title will toggle quick loading mode.</string>
 	<string name="context_help_desc_screen">The menu allows you to change various display parameters, such as color intensity</string>
+	<string name="dialog_reset_text">Value reset to default</string>
 </resources>
