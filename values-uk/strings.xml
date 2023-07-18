@@ -140,4 +140,7 @@
 	<string name="dialog_reset_text">Value reset to default</string>
 	<string name="resources_control_subtitle_state">State</string>
 	<string name="resources_control_state">Enable background apps resources limitation</string>
+	<string name="process_item_cpu_text">ЦП:</string>
+	<string name="process_item_ram_text">ОЗУ:</string>
+	<string name="page_process_viewer">Process viewer</string>
 </resources>

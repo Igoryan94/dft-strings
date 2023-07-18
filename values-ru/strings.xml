@@ -140,4 +140,7 @@
 	<string name="dialog_reset_text">Значение сброшено к умолчанию</string>
 	<string name="resources_control_subtitle_state">Состояние</string>
 	<string name="resources_control_state">Включить ограничение ресурсов фоновых приложений</string>
+	<string name="process_item_cpu_text">ЦП:</string>
+	<string name="process_item_ram_text">ОЗУ:</string>
+	<string name="page_process_viewer">Просмотр процессов</string>
 </resources>
