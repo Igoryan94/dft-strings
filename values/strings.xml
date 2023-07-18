@@ -144,5 +144,5 @@
 	<string name="context_help_desc_screen">The menu allows you to change various display parameters, such as color intensity</string>
 	<string name="dialog_reset_text">Value reset to default</string>
 	<string name="resources_control_subtitle_state">State</string>
-	<string name="resources_control_state">Enable resources control</string>
+	<string name="resources_control_state">Enable background apps resources limitation</string>
 </resources>
