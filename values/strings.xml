@@ -45,7 +45,7 @@
 	<string name="schedtune_category_class_boosts_fg">App services</string>
 	<string name="schedtune_category_class_boosts_rt">Realtime services</string>
 	<string name="schedtune_category_class_boosts_background">Background processes</string>
-	<string name="context_help_title_main_menu_art">Android Runtime (ART)</string>
+	<string name="context_help_title_main_menu_art" translatable="false">Android Runtime (ART)</string>
 	<string name="context_help_desc_main_menu_art">The Android\'s app engine, named Android Runtime, that prepares code-cache for apps before they launch, \"ahead-of-time\". This menu will allow you to change some of engine\'s parameters, or to reset the whole code-cache, that may be useful to solve memory leaks or some other ROM issues.</string>
 	<string name="context_help_title_main_menu_system_animations">Set system animations speed</string>
 	<string name="context_help_desc_main_menu_system_animations">This menu allows you to change speed for system animations. The menu has five configurable presets (long click to modify its value).</string>
@@ -61,7 +61,7 @@
 	<string name="context_help_title_art_purge">Purge ART-cache</string>
 	<string name="context_help_desc_art_purge">Executing this action will clear the whole Android Runtime code-cache, may be useful to solve memory leaks or some other ROM issues. Warning! The device will heat more and consume more battery for some time…</string>
 	<string name="page_system_workarounds">System workarounds</string>
-	<string name="workarounds_category_google" translatable="false">Google Play services</string>
+	<string name="workarounds_category_google">Google Play services</string>
 	<string name="workarounds_forbid_gms_updates">Forbid GMS updates</string>
 	<string name="workarounds_rollback_gms_version">Rollback GMS version</string>
 	<string name="workarounds_apkmirror_for_gms">Click here to open ApkMirror page for GMS builds…</string>

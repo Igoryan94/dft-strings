@@ -41,7 +41,6 @@
 	<string name="schedtune_category_class_boosts_fg">Сервисы приложений</string>
 	<string name="schedtune_category_class_boosts_rt">Работающие сервисы</string>
 	<string name="schedtune_category_class_boosts_background">Фоновые процессы</string>
-	<string name="context_help_title_main_menu_art">Android Runtime (ART)</string>
 	<string name="context_help_desc_main_menu_art">Движок приложений Android, называемый Android Runtime, подготавливает кэш кода приложений до их первого запуска. Это меню позволяет изменять некоторые параметры движка, сбрасывать весь кэш кода. Это может быть полезно, если не хватает памяти или когда прошивка работает с ошибками.</string>
 	<string name="context_help_title_main_menu_system_animations">Установить скорость системных анимаций</string>
 	<string name="context_help_desc_main_menu_system_animations">Данное меню позволяет изменять скорость системных анимаций. В нём присутствует пять настраиваемых предустановок (зажмите для настройки их значений).</string>
@@ -57,6 +56,7 @@
 	<string name="context_help_title_art_purge">Очистка ART-кэша</string>
 	<string name="context_help_desc_art_purge">Данное действие очистит весь кэш кода Android Runtime. Это может быть полезно, если не хватает памяти или когда прошивка работает с ошибками. Предупреждение! В течение некоторого времени устройство будет сильнее нагреваться и потреблять больше заряда батареи…</string>
 	<string name="page_system_workarounds">Решения системных проблем</string>
+	<string name="workarounds_category_google">Сервисы Google Play</string>
 	<string name="workarounds_forbid_gms_updates">Запретить обновления GMS</string>
 	<string name="workarounds_rollback_gms_version">Откатить версию GMS</string>
 	<string name="workarounds_apkmirror_for_gms">Нажмите здесь для открытия страницы ApkMirror со сборками GMS…</string>
@@ -137,7 +137,6 @@
 	<string name="date_string_minutes_alt">%d минуты</string>
 	<string name="context_help_desc_frozen_launcher">Данное меню предоставляет удобный способ запуска замороженных приложений, а также возможность их быстро заморозить обратно. Долгий клик по заголовку окна переключает режим быстрой загрузки.</string>
 	<string name="context_help_desc_screen">Данное меню позволяет менять различные параметры дисплея, например цветность</string>
-	<string name="context_help_desc_screen">Д</string>
 	<string name="dialog_reset_text">Значение сброшено к умолчанию</string>
 	<string name="resources_control_subtitle_state">Состояние</string>
 	<string name="resources_control_state">Включить ограничение ресурсов фоновых приложений</string>
