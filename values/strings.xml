@@ -148,4 +148,7 @@
 	<string name="process_item_cpu_text">CPU:</string>
 	<string name="process_item_ram_text">RAM:</string>
 	<string name="page_process_viewer">Process viewer</string>
+	<string name="workarounds_category_root">Root</string>
+	<string name="workarounds_magisk_core_mode">Magisk Core mode</string>
+	<string name="workarounds_magisk_core_toggle_text">Applied. You may need to restart the system for the changes to take effect…</string>
 </resources>
