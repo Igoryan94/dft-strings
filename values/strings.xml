@@ -156,4 +156,9 @@
 	<string name="workarounds_magisk_core_reboot_dialog_title">Magisk Core mode</string>
 	<string name="workarounds_magisk_core_reboot_dialog_desc">A reboot is required to apply the changes. Please confirm…</string>
 	<string name="workarounds_magisk_core_reboot_dialog_pre_reboot_toast">The system will reboot in 5 seconds…</string>
+	<string name="process_viewer_sort_type_text">Sort:</string>
+	<string name="process_viewer_sort_type_cpu">CPU</string>
+	<string name="process_viewer_sort_type_ram">RAM</string>
+	<string name="process_viewer_sort_type_name">Name</string>
+	<string name="process_viewer_sort_type_id" translatable="false">ID</string>
 </resources>

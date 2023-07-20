@@ -151,4 +151,8 @@
 	<string name="workarounds_magisk_core_reboot_dialog_title">Режим Magisk Core</string>
 	<string name="workarounds_magisk_core_reboot_dialog_desc">Для применения изменений необходима перезагрузка. Подтвердите...</string>
 	<string name="workarounds_magisk_core_reboot_dialog_pre_reboot_toast">Система будет перезагружена через 5 секунд...</string>
+	<string name="process_viewer_sort_type_text">Сорт.:</string>
+	<string name="process_viewer_sort_type_cpu">ЦП</string>
+	<string name="process_viewer_sort_type_ram">ОЗУ</string>
+	<string name="process_viewer_sort_type_name">Имя</string>
 </resources>
