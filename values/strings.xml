@@ -150,8 +150,10 @@
 	<string name="page_process_viewer">Process viewer</string>
 	<string name="workarounds_category_root">Root</string>
 	<string name="workarounds_magisk_core_mode">Magisk Core mode</string>
-	<string name="workarounds_magisk_core_toggle_text">Applied. You may need to restart the system for the changes to take effect…</string>
 	<string name="schedtune_toggle_additional_optimization">Activate additional optimization</string>
 	<string name="context_help_desc_schedtune_optimization">This tunes some extra SchedTune parameters, such as prefer_idle, colocate, window_policy and discount_wait_time for some Android app classes, to reach better user experience and performance. This tunable is used independently of the parameters above.</string>
 	<string name="context_help_title_schedtune_optimization">SchedTune optimization</string>
+	<string name="workarounds_magisk_core_reboot_dialog_title">Magisk Core mode</string>
+	<string name="workarounds_magisk_core_reboot_dialog_desc">A reboot is required to apply the changes. Please confirm…</string>
+	<string name="workarounds_magisk_core_reboot_dialog_pre_reboot_toast">The system will reboot in 5 seconds…</string>
 </resources>

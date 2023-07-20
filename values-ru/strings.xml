@@ -145,8 +145,10 @@
 	<string name="page_process_viewer">Просмотр процессов</string>
 	<string name="workarounds_category_root">Рут-доступ</string>
 	<string name="workarounds_magisk_core_mode">Режим Magisk Core</string>
-	<string name="workarounds_magisk_core_toggle_text">Применено. Для принятия изменений в силу, возможно, потребуется рестарт системы…</string>
 	<string name="schedtune_toggle_additional_optimization">Активировать дополнительную оптимизацию</string>
 	<string name="context_help_desc_schedtune_optimization">Это настраивает некоторые дополнительные параметры SchedTune, такие как prefer_idle, colocate, window_policy и discount_wait_time для некоторых классов приложений Android, чтобы улучшить взаимодействие с пользователем и производительность. Этот настраиваемый параметр используется независимо от указанных выше параметров.</string>
 	<string name="context_help_title_schedtune_optimization">Оптимизация SchedTune</string>
+	<string name="workarounds_magisk_core_reboot_dialog_title">Режим Magisk Core</string>
+	<string name="workarounds_magisk_core_reboot_dialog_desc">Для применения изменений необходима перезагрузка. Подтвердите...</string>
+	<string name="workarounds_magisk_core_reboot_dialog_pre_reboot_toast">Система будет перезагружена через 5 секунд...</string>
 </resources>
