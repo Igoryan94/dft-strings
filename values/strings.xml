@@ -151,4 +151,5 @@
 	<string name="workarounds_category_root">Root</string>
 	<string name="workarounds_magisk_core_mode">Magisk Core mode</string>
 	<string name="workarounds_magisk_core_toggle_text">Applied. You may need to restart the system for the changes to take effect…</string>
+	<string name="schedtune_toggle_additional_optimization">Activate additional optimization</string>
 </resources>

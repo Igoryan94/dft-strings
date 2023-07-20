@@ -146,4 +146,5 @@
 	<string name="workarounds_category_root">Рут-доступ</string>
 	<string name="workarounds_magisk_core_mode">Режим Magisk Core</string>
 	<string name="workarounds_magisk_core_toggle_text">Применено. Для принятия изменений в силу, возможно, потребуется рестарт системы…</string>
+	<string name="schedtune_toggle_additional_optimization">Активировать дополнительную оптимизацию</string>
 </resources>
