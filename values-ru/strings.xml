@@ -16,8 +16,8 @@
 	<string name="installer_action_install_tweaks_text">Установить</string>
 	<string name="menu_art_button_purge_code_cache">Очистка кэша ART-кода</string>
 	<string name="main_menu_category_power_resources">Системные ресурсы</string>
-	<string name="context_help_title_main_menu_stune">Об CFS SchedTune</string>
-	<string name="context_help_desc_main_menu_stune">SchedTune (или Stune) является движком подъёма значения нагрузки процессов в планировщике процессов Android (CFS). Настройка некоторых значений (в процентах) для группы процессов в результате дает более быстрое выполнение данных процессов. Это может вызвать нагрев и повышение частот процессора, но также ведет к увеличению производительности.</string>
+	<string name="context_help_title_main_menu_stune">О CFS SchedTune</string>
+	<string name="context_help_desc_main_menu_stune">Данное меню позволяет улучшить плавность или производительность устройства за счёт изменения настроек планировщика процессов Android.\n\nSchedTune (или Stune) является движком подъёма значения нагрузки процессов в планировщике процессов Android (CFS). Настройка некоторых значений (в процентах) для группы процессов в результате дает более быстрое выполнение данных процессов. Это может вызвать нагрев и повышение частот процессора, но также ведет к увеличению производительности.</string>
 	<string name="schedtune_category_class_boosts">Разгон приложений, в процентах</string>
 	<!-- TODO change "overclock apps" above to something better... -->
 	<string name="context_help_schedtune_read_error_title">Ошибка!</string>
@@ -151,8 +151,4 @@
 	<string name="workarounds_magisk_core_reboot_dialog_title">Режим Magisk Core</string>
 	<string name="workarounds_magisk_core_reboot_dialog_desc">Для применения изменений необходима перезагрузка. Подтвердите...</string>
 	<string name="workarounds_magisk_core_reboot_dialog_pre_reboot_toast">Система будет перезагружена через 5 секунд...</string>
-	<string name="process_viewer_sort_type_text">Сорт.:</string>
-	<string name="process_viewer_sort_type_cpu">ЦП</string>
-	<string name="process_viewer_sort_type_ram">ОЗУ</string>
-	<string name="process_viewer_sort_type_name">Имя</string>
 </resources>

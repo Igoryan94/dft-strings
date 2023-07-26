@@ -22,7 +22,7 @@
 	<string name="menu_art_button_purge_code_cache">Purge ART code cache</string>
 	<string name="main_menu_category_power_resources">System resources</string>
 	<string name="context_help_title_main_menu_stune">About CFS SchedTune</string>
-	<string name="context_help_desc_main_menu_stune">SchedTune (or Stune) is an Android process scheduler (CFS) load boosting engine. Setting some value (in percent) for a process group resulting in resources boosting for those processes. It might cause higher heating and CPU frequency usages, but also it will lead to more performance.</string>
+	<string name="context_help_desc_main_menu_stune">This menu allows you to improve the smoothness or performance of the device by changing the settings of the Android process scheduler.\n\nSchedTune (or Stune) is an Android process scheduler (CFS) load boosting engine. Setting some value (in percent) for a process group resulting in resources boosting for those processes. It might cause higher heating and CPU frequency usages, but also it will lead to more performance.</string>
 	<string name="schedtune_category_class_boosts">App boosting, in percent</string>
 	<string name="context_help_schedtune_read_error_title">Error!</string>
 	<string name="context_help_schedtune_read_error_text">Failed to get SchedTune values…</string>
@@ -156,9 +156,4 @@
 	<string name="workarounds_magisk_core_reboot_dialog_title">Magisk Core mode</string>
 	<string name="workarounds_magisk_core_reboot_dialog_desc">A reboot is required to apply the changes. Please confirm…</string>
 	<string name="workarounds_magisk_core_reboot_dialog_pre_reboot_toast">The system will reboot in 5 seconds…</string>
-	<string name="process_viewer_sort_type_text">Sort:</string>
-	<string name="process_viewer_sort_type_cpu">CPU</string>
-	<string name="process_viewer_sort_type_ram">RAM</string>
-	<string name="process_viewer_sort_type_name">Name</string>
-	<string name="process_viewer_sort_type_id" translatable="false">ID</string>
 </resources>

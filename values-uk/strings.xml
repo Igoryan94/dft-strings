@@ -40,7 +40,7 @@
 	<string name="schedtune_category_class_boosts_rt">Сервіси в реальному часі</string>
 	<string name="schedtune_category_class_boosts_background">Фонові процеси</string>
 	<string name="context_help_title_main_menu_stune">Про CFS SchedTune</string>
-	<string name="context_help_desc_main_menu_stune">SchedTune (or Stune) — це механізм збільшення навантаження планувальника процесів Android (CFS). Встановлення певного значення (у відсотках) для групи процесів, що призводить до збільшення ресурсів для цих процесів. Це може спричинити високе нагрівання та використання частоти процесора, але також призведе до більшої продуктивності.</string>
+	<string name="context_help_desc_main_menu_stune">This menu allows you to improve the smoothness or performance of the device by changing the settings of the Android process scheduler.\n\nSchedTune (or Stune) — це механізм збільшення навантаження планувальника процесів Android (CFS). Встановлення певного значення (у відсотках) для групи процесів, що призводить до збільшення ресурсів для цих процесів. Це може спричинити високе нагрівання та використання частоти процесора, але також призведе до більшої продуктивності.</string>
 	<string name="context_help_desc_main_menu_art">Механізм додатків Android під назвою Android Runtime, який "завчасно" готує кеш-код для програм перед їх запуском. Це меню дозволить вам змінити деякі параметри двигуна або скинути весь кеш коду, що може бути корисним для вирішення витоків пам’яті чи деяких інших проблем ПЗУ.</string>
 	<string name="context_help_title_main_menu_system_animations">Встановити швидкість анімації системи</string>
 	<string name="context_help_desc_main_menu_system_animations">Це меню дозволяє змінювати швидкість системної анімації. Меню має п’ять пресетів (довге клацання, щоб змінити його значення).</string>
@@ -151,8 +151,4 @@
 	<string name="workarounds_magisk_core_reboot_dialog_title">Magisk Core mode</string>
 	<string name="workarounds_magisk_core_reboot_dialog_desc">A reboot is required to apply the changes. Please confirm…</string>
 	<string name="workarounds_magisk_core_reboot_dialog_pre_reboot_toast">The system will reboot in 5 seconds…</string>
-	<string name="process_viewer_sort_type_text">Sort:</string>
-	<string name="process_viewer_sort_type_cpu">CPU</string>
-	<string name="process_viewer_sort_type_ram">RAM</string>
-	<string name="process_viewer_sort_type_name">Name</string>
 </resources>
