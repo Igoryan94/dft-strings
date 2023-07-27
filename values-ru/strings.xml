@@ -111,10 +111,9 @@
 	<string name="battery_info_subtitle_potential_data">Данные о потенциале батареи</string>
 	<string name="battery_info_potential_capacity_text_fmt">Ёмкость (точность ~95%%): %d мАч</string>
 	<string name="battery_info_fact_remains_text_fmt">Текущий заряд: %d мАч (%d%%)</string>
-	<string name="battery_info_time_remains_text">Хватит примерно на </string>
 	<string name="battery_info_discharging_power_text_fmt">Расход за час: %d мАч</string>
 	<string name="battery_info_charging_power_text_fmt">Заряд за час: %d мАч</string>
-	<string name="battery_info_temperature_text_fmt">Температура: %.1f °C</string>
+	<string name="battery_info_temperature_text_fmt">Температура:\n%.1f °C</string>
 	<string name="app_disabler_show_system_apps">Показывать системные приложения</string>
 	<string name="frozen_launcher_text_no_unfrozen_apps">Нет размороженных приложений…</string>
 	<string name="app_shortcut_display_anim_speed">Скорость аним.</string>
@@ -151,4 +150,8 @@
 	<string name="workarounds_magisk_core_reboot_dialog_title">Режим Magisk Core</string>
 	<string name="workarounds_magisk_core_reboot_dialog_desc">Для применения изменений необходима перезагрузка. Подтвердите...</string>
 	<string name="workarounds_magisk_core_reboot_dialog_pre_reboot_toast">Система будет перезагружена через 5 секунд...</string>
+	<string name="process_viewer_sort_type_text">Сорт.:</string>
+	<string name="process_viewer_sort_type_cpu">ЦП</string>
+	<string name="process_viewer_sort_type_ram">ОЗУ</string>
+	<string name="process_viewer_sort_type_name">Имя</string>
 </resources>

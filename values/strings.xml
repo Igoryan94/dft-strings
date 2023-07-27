@@ -116,10 +116,9 @@
 	<string name="battery_info_subtitle_potential_data">Battery potential data</string>
 	<string name="battery_info_potential_capacity_text_fmt">Capacity (accuracy ~95%%): %d mAh</string>
 	<string name="battery_info_fact_remains_text_fmt">Current charge: %d mAh (%d%%)</string>
-	<string name="battery_info_time_remains_text">Time left (approx.): </string>
 	<string name="battery_info_discharging_power_text_fmt">Consumed in an hour: %d mAh</string>
 	<string name="battery_info_charging_power_text_fmt">Charged in an hour: %d mAh</string>
-	<string name="battery_info_temperature_text_fmt">Temperature is %.1f °C</string>
+	<string name="battery_info_temperature_text_fmt">Temperature\nis %.1f °C</string>
 	<string name="app_disabler_show_system_apps">Show system apps</string>
 	<string name="frozen_launcher_text_no_unfrozen_apps">No unfrozen apps…</string>
 	<string name="app_shortcut_display_anim_speed">Anim. speed</string>
@@ -156,4 +155,9 @@
 	<string name="workarounds_magisk_core_reboot_dialog_title">Magisk Core mode</string>
 	<string name="workarounds_magisk_core_reboot_dialog_desc">A reboot is required to apply the changes. Please confirm…</string>
 	<string name="workarounds_magisk_core_reboot_dialog_pre_reboot_toast">The system will reboot in 5 seconds…</string>
+	<string name="process_viewer_sort_type_text">Sort:</string>
+	<string name="process_viewer_sort_type_cpu">CPU</string>
+	<string name="process_viewer_sort_type_ram">RAM</string>
+	<string name="process_viewer_sort_type_name">Name</string>
+	<string name="process_viewer_sort_type_id" translatable="false">ID</string>
 </resources>
