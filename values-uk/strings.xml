@@ -73,7 +73,7 @@
 	<string name="app_disabler_category_user">Активні</string>
 	<string name="app_disabler_filter_hint">Фільтр…</string>
 	<string name="page_frozen_apps_launcher">Панель запуску заморожених програм.</string>
-	<string name="frozen_launcher_unknown_app_title">Невідомий додаток</string>
+	<string name="app_list_unknown_app_title">Невідомий додаток</string>
 	<string name="workarounds_category_network">Мережа</string>
 	<string name="workarounds_improve_mobile_network_latency">Покращення затримки мобільної мережі</string>
 	<string name="frozen_launcher_open_app_freezer">Відкрити замороження додатків.</string>
@@ -160,4 +160,7 @@
 	<string name="resources_control_list_app_remove_hint">To remove an application from the list, make a long click on it</string>
 	<string name="resources_control_subtitle_exclusions">Whitelist: exclude these apps from any actions</string>
 	<string name="resources_control_subtitle_blacklist">Black list: kill these apps right when they launch</string>
+	<string name="dialog_app_choice_toast_app_is_not_selected">Application selection cancelled…</string>
+	<string name="dialog_app_choice_toast_app_is_already_added">Application is already added!</string>
+	<string name="dialog_choose_app_title">Select app…</string>
 </resources>
