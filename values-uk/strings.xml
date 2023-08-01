@@ -154,4 +154,7 @@
 	<string name="process_viewer_sort_type_cpu">CPU</string>
 	<string name="process_viewer_sort_type_ram">RAM</string>
 	<string name="process_viewer_sort_type_name">Name</string>
+		<string name="app_shortcut_toggle_res_control">Toggle res. control</string>
+	<string name="resources_control_toast_service_started_successfully">Service started successfully</string>
+	<string name="resources_control_service_stopped_successfully">Service stopped successfully</string>
 </resources>

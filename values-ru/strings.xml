@@ -154,4 +154,7 @@
 	<string name="process_viewer_sort_type_cpu">ЦП</string>
 	<string name="process_viewer_sort_type_ram">ОЗУ</string>
 	<string name="process_viewer_sort_type_name">Имя</string>
+		<string name="app_shortcut_toggle_res_control">Перекл. контр. ресурсов</string>
+	<string name="resources_control_toast_service_started_successfully">Service started successfully</string>
+	<string name="resources_control_service_stopped_successfully">Service stopped successfully</string>
 </resources>
