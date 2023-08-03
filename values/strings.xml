@@ -163,7 +163,7 @@
 	<string name="app_shortcut_toggle_res_control">Toggle res. control</string>
 	<string name="resources_control_toast_service_started_successfully">Service started successfully</string>
 	<string name="resources_control_service_stopped_successfully">Service stopped successfully</string>
-	<string name="resources_control_list_app_remove_hint">To remove an application from the list, make a long click on it</string>
+	<string name="resources_control_list_app_remove_hint">To remove the application from the list, make a long click on it</string>
 	<string name="resources_control_subtitle_exclusions">Whitelist: exclude these apps from any actions</string>
 	<string name="resources_control_subtitle_blacklist">Black list: kill these apps right when they launch</string>
 	<string name="dialog_app_choice_toast_app_is_not_selected">Application selection cancelled…</string>
