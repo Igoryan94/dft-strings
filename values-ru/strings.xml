@@ -165,7 +165,7 @@
 	<string name="dialog_choose_app_title">Select app…</string>
 	<string name="resources_control_kill_apps_time_threshold_text">Kill applications after, sec. (0 = disable, 1 = immediately when activity detected)</string>
 	<string name="resources_control_list_add_app_button">Add an app…</string>
-	<string name="resources_control_apps_limitation_intensity_text">Background apps limitation intensity, lower is less resources allowed, zero is disabled; in percent</string>
+	<string name="resources_control_apps_limitation_intensity_text">Background apps limitation intensity (zero = disable; the lower the value, the less resources allowed to processes), in percent</string>
 	<string name="resources_control_toast_backup_restored">Restored, refreshing the lists…</string>
 	<string name="backup_done_text">Backup done</string>
 </resources>
