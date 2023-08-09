@@ -178,7 +178,7 @@
 	<string name="process_viewer_black_list_item_added_toast">Process %s added to black list!</string>
 	<string name="resources_control_kill_app_stats">Kill app statistics processes (\':Metrica\' and such)</string>
 	<string name="resources_control_kill_app_account_procs">Kill app account processes (\':passport\', etc)</string>
-	<string name="resources_control_lazy_mode">\'Lazy mode\' - increase service wait time to 45 seconds, for tasks that do not require nearly- real-time operations</string>
+	<string name="resources_control_lazy_mode">\'Lazy mode\': increase service wait time to 45 seconds - for tasks that do not require nearly- real-time operations</string>
 	<string name="battery_info_subtitle_actions">Actions</string>
 	<string name="battery_info_reset_battery_stats">Reset battery statistics (may not work on some ROMs at the moment)</string>
 	<string name="art_optimize_code_cache">Optimize user apps code cache (level: speed)</string>

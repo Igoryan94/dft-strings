@@ -172,7 +172,7 @@
 	<string name="process_viewer_black_list_item_added_toast">Процесс %s добавлен в чёрный список!</string>
 	<string name="resources_control_kill_app_stats">Убить процессы статистики приложений (\':Метрика\' и прочие)</string>
 	<string name="resources_control_kill_app_account_procs">Убить процессы аккаунта приложения (\':паспорт\', и т.д.)</string>
-	<string name="resources_control_lazy_mode">\'Ленивый режим\' - увеличить время ожидания сервиса до двух минут для задач, не требующих операций почти в реальном времени</string>
+	<string name="resources_control_lazy_mode">\'Ленивый режим\': увеличить время ожидания сервиса до 45 секунд - для задач, не требующих операций почти в реальном времени</string>
 	<string name="battery_info_subtitle_actions">Действия</string>
 	<string name="battery_info_reset_battery_stats">Сбросить статистику батареи (может не работать на некоторых прошивках, пока что)</string>
 	<string name="art_optimize_code_cache">Оптимизировать кеш кода пользовательских приложений (степень: скорость)</string>
