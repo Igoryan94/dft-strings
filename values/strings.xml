@@ -181,7 +181,7 @@
 	<string name="resources_control_lazy_mode">\'Lazy mode\': increase service wait time to 45 seconds - for tasks that do not require nearly- real-time operations</string>
 	<string name="battery_info_subtitle_actions">Actions</string>
 	<string name="battery_info_reset_battery_stats">Reset battery statistics (may not work on some ROMs at the moment)</string>
-	<string name="art_optimize_code_cache">Optimize user apps code cache (level: speed)</string>
+	<string name="art_optimize_code_cache">Optimize apps code cache (level: speed)</string>
 	<string name="art_service_code_opt_text">Apps code cache optimization. Click to cancel…</string>
 	<string name="dialog_cancelled_text">Cancelled</string>
 	<string name="art_code_cache_opt_started_text">OK, optimization started. You can cancel it at any moment by clicking the notificaion…</string>

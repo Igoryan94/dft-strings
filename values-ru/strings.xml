@@ -175,8 +175,8 @@
 	<string name="resources_control_lazy_mode">\'Ленивый режим\': увеличить время ожидания сервиса до 45 секунд - для задач, не требующих операций почти в реальном времени</string>
 	<string name="battery_info_subtitle_actions">Действия</string>
 	<string name="battery_info_reset_battery_stats">Сбросить статистику батареи (может не работать на некоторых прошивках, пока что)</string>
-	<string name="art_optimize_code_cache">Оптимизировать кеш кода пользовательских приложений (степень: скорость)</string>
-	<string name="art_service_code_opt_text">Оптимизация кеша кода приложений. Нажмите для отмены…</string>
+	<string name="art_optimize_code_cache">Оптимизировать кэш кода приложений (степень: скорость)</string>
+	<string name="art_service_code_opt_text">Оптимизация кэша кода приложений. Нажмите для отмены…</string>
 	<string name="dialog_cancelled_text">Отменено</string>
 	<string name="art_code_cache_opt_started_text">Хорошо, оптимизация запущена. Вы можете это отменить в любой момент, просто нажав на уведомление…</string>
 </resources>
