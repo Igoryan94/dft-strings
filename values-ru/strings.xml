@@ -179,4 +179,7 @@
 	<string name="art_service_code_opt_text">Оптимиз. кэша кода приложений. Клик для отмены…</string>
 	<string name="dialog_cancelled_text">Отменено</string>
 	<string name="art_code_cache_opt_started_text">Оптимизация запущена. Вы можете отменить процесс в любой момент, просто нажав на уведомление…</string>
+	<string name="app_settings_category_process_viewer">Просмотр процессов</string>
+	<string name="display_density">Плотность изображения</string>
+	<string name="app_settings_process_viewer_update_frequency">Частота обновления списка процессов, мс.</string>
 </resources>

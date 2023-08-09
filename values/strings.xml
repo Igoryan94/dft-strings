@@ -185,4 +185,7 @@
 	<string name="art_service_code_opt_text">Apps code cache optimization. Click to cancel…</string>
 	<string name="dialog_cancelled_text">Cancelled</string>
 	<string name="art_code_cache_opt_started_text">OK, optimization started. You can cancel it at any moment by clicking the notificaion…</string>
+	<string name="app_settings_category_process_viewer">Process viewer</string>
+	<string name="display_density">Display density</string>
+	<string name="app_settings_process_viewer_update_frequency">Process list update frequency, ms</string>
 </resources>
