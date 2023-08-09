@@ -163,20 +163,20 @@
 	<string name="dialog_app_choice_toast_app_is_not_selected">Выбор приложения отменён…</string>
 	<string name="dialog_app_choice_toast_app_is_already_added">Приложение успешно добавлено!</string>
 	<string name="dialog_choose_app_title">Выбрать приложение…</string>
-	<string name="resources_control_kill_apps_time_threshold_text">Убить приложение после, в сек. (0 = отключить, 1 = сразу, когда приложение обнаружено)</string>
+	<string name="resources_control_kill_apps_time_threshold_text">Уничтожать приложения через, сек. (0 = отключить, 1 = сразу по обнаружении активности)</string>
 	<string name="resources_control_list_add_app_button">Добавить приложение…</string>
 	<string name="resources_control_apps_limitation_intensity_text">Интенсивность ограничения фоновых приложений (ноль = отключить; чем меньше значение, тем меньше ресурсов разрешено процессам), в процентах</string>
 	<string name="resources_control_toast_backup_restored">Восстановлено, обновление списков…</string>
 	<string name="backup_done_text">Резервное копирование выполнено</string>
-	<string name="process_viewer_black_list_requires_resources_control_enabled">Сначала вам нужно будет включить контроль ресурсов, для работы чёрного списка процессов....</string>
+	<string name="process_viewer_black_list_requires_resources_control_enabled">Для работы чёрного списка процессов нужно будет включить контроль ресурсов....</string>
 	<string name="process_viewer_black_list_item_added_toast">Процесс %s добавлен в чёрный список!</string>
-	<string name="resources_control_kill_app_stats">Убить процессы статистики приложений (\':Метрика\' и прочие)</string>
-	<string name="resources_control_kill_app_account_procs">Убить процессы аккаунта приложения (\':паспорт\', и т.д.)</string>
+	<string name="resources_control_kill_app_stats">Уничтожать процессы статистики приложений (\':Metrica\' и прочие)</string>
+	<string name="resources_control_kill_app_account_procs">Уничтожать процессы данных аккаунта приложений (\':passport\', и т.д.)</string>
 	<string name="resources_control_lazy_mode">\'Ленивый режим\': увеличить время ожидания сервиса до 45 секунд - для задач, не требующих операций почти в реальном времени</string>
 	<string name="battery_info_subtitle_actions">Действия</string>
 	<string name="battery_info_reset_battery_stats">Сбросить статистику батареи (может не работать на некоторых прошивках, пока что)</string>
-	<string name="art_optimize_code_cache">Оптимизировать кэш кода приложений (степень: скорость)</string>
-	<string name="art_service_code_opt_text">Оптимизация кэша кода приложений. Нажмите для отмены…</string>
+	<string name="art_optimize_code_cache">Оптимизировать кэш кода приложений (режим: speed)</string>
+	<string name="art_service_code_opt_text">Оптимиз. кэша кода приложений. Клик для отмены…</string>
 	<string name="dialog_cancelled_text">Отменено</string>
-	<string name="art_code_cache_opt_started_text">Хорошо, оптимизация запущена. Вы можете это отменить в любой момент, просто нажав на уведомление…</string>
+	<string name="art_code_cache_opt_started_text">Оптимизация запущена. Вы можете отменить процесс в любой момент, просто нажав на уведомление…</string>
 </resources>
