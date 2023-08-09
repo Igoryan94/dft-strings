@@ -14,7 +14,7 @@
 	<string name="dialog_applied_text">Применено</string>
 	<string name="dialog_empty_text">Значение пустое, не применено!</string>
 	<string name="installer_action_install_tweaks_text">Установить</string>
-	<string name="menu_art_button_purge_code_cache">Очистка кэша ART-кода</string>
+	<string name="art_purge_code_cache">Очистка кэша ART-кода</string>
 	<string name="main_menu_category_power_resources">Системные ресурсы</string>
 	<string name="context_help_title_main_menu_stune">О CFS SchedTune</string>
 	<string name="context_help_desc_main_menu_stune">Данное меню позволяет улучшить плавность или производительность устройства за счёт изменения настроек планировщика процессов Android.\n\nSchedTune (или Stune) является движком подъёма значения нагрузки процессов в планировщике процессов Android (CFS). Настройка некоторых значений (в процентах) для группы процессов в результате дает более быстрое выполнение данных процессов. Это может вызвать нагрев и повышение частот процессора, но также ведет к увеличению производительности.</string>
@@ -168,11 +168,15 @@
 	<string name="resources_control_apps_limitation_intensity_text">Background apps limitation intensity (zero = disable; the lower the value, the less resources allowed to processes), in percent</string>
 	<string name="resources_control_toast_backup_restored">Restored, refreshing the lists…</string>
 	<string name="backup_done_text">Backup done</string>
-	<string name="process_viewer_black_list_requires_resources_control_enabled">You will have to enable resources control first, for processes black list to work...</string>
+	<string name="process_viewer_black_list_requires_resources_control_enabled">You will have to enable resources control first, for processes black list to work…</string>
 	<string name="process_viewer_black_list_item_added_toast">Process %s added to black list!</string>
 	<string name="resources_control_kill_app_stats">Kill app statistics processes (\':Metrica\' and such)</string>
 	<string name="resources_control_kill_app_account_procs">Kill app account processes (\':passport\', etc)</string>
-	<string name="resources_control_lazy_mode">\'Lazy mode\' - increase service wait time to two minutes, for tasks that do not require nearly- real-time operations</string>
+	<string name="resources_control_lazy_mode">\'Lazy mode\' - increase service wait time to 45 seconds, for tasks that do not require nearly- real-time operations</string>
 	<string name="battery_info_subtitle_actions">Actions</string>
 	<string name="battery_info_reset_battery_stats">Reset battery statistics (may not work on some ROMs at the moment)</string>
+	<string name="art_optimize_code_cache">Optimize user apps code cache (level: speed)</string>
+	<string name="art_service_code_opt_text">Apps code cache optimization. Click to cancel…</string>
+	<string name="dialog_cancelled_text">Cancelled</string>
+	<string name="art_code_cache_opt_started_text">Ok, optimization started. You can cancel it at any moment by clicking the notificaion…</string>
 </resources>
