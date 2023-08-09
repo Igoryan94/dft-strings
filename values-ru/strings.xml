@@ -168,7 +168,7 @@
 	<string name="resources_control_apps_limitation_intensity_text">Интенсивность ограничения фоновых приложений (ноль = отключить; чем меньше значение, тем меньше ресурсов разрешено процессам), в процентах</string>
 	<string name="resources_control_toast_backup_restored">Восстановлено, обновление списков…</string>
 	<string name="backup_done_text">Резервное копирование выполнено</string>
-	<string name="process_viewer_black_list_requires_resources_control_enabled">Для работы чёрного списка процессов нужно будет включить контроль ресурсов....</string>
+	<string name="process_viewer_black_list_requires_resources_control_enabled">Для работы чёрного списка процессов нужно будет включить контроль ресурсов…</string>
 	<string name="process_viewer_black_list_item_added_toast">Процесс %s добавлен в чёрный список!</string>
 	<string name="resources_control_kill_app_stats">Уничтожать процессы статистики приложений (\':Metrica\' и прочие)</string>
 	<string name="resources_control_kill_app_account_procs">Уничтожать процессы данных аккаунта приложений (\':passport\', и т.д.)</string>
