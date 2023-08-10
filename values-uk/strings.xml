@@ -188,4 +188,7 @@
 	<string name="context_help_desc_art_fix_dexopt">Остановить системный процесс беспорядочной фоновой оптимизации приложений. Полезно, если он продолжается после запуска вручную кнопкой выше и даже после полного окончания процесса…\nДанное действие также завершает работу сервиса оптимизации DfT, если вы запустили его ранее.</string>
 	<string name="context_help_title_art_compile">Пре-компиляция кэша кода</string>
 	<string name="context_help_desc_art_compile">При нажатии позволяет собрать кэш кода приложений так, чтобы впоследствии запуск отдельных элементов кода приложений ими выполнялся с максимально возможной скоростью.\nДанная функция игнорирует компиляцию некоторых системных процессов, таких, как Google-сервисы, с целью избежать утечек памяти (баг OS Android).</string>
+	<string name="art_compile_service_main_text_part">Сборка %s приложений: %d из %d</string>
+	<string name="art_compile_service_user_apps">польз.</string>
+	<string name="art_compile_service_system_apps">сист.</string>
 </resources>
